@@ -158,4 +158,4 @@ X_scat <- c("FFMC", "DMC","DC", "ISI", "temp", "RH", "wind", "rain")
 map2(X_scat, Y_scat, create_scatter)
 
 
-* NOTE: " RUN THIS FILE IN R STUDIO (R PROGRAMMING)
+* NOTE: " RUN THIS FILE IN R STUDIO (R PROGRAMMING) "
